@@ -1,0 +1,7 @@
+<!-- res/drawable/gradient_ab.xml -->
+<shape xmlns:android="http://schemas.android.com/apk/res/android">
+    <gradient
+        android:startColor="#0B060F"
+        android:endColor="#10348F"
+        android:angle="45" /> <!-- Set your desired angle -->
+</shape>
